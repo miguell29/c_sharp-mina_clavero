@@ -1,0 +1,15 @@
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\bin\Debug\net6.0\clase_13-ejercicio1.exe
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\bin\Debug\net6.0\clase_13-ejercicio1.deps.json
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\bin\Debug\net6.0\clase_13-ejercicio1.runtimeconfig.json
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\bin\Debug\net6.0\clase_13-ejercicio1.dll
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\bin\Debug\net6.0\clase_13-ejercicio1.pdb
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.csproj.AssemblyReference.cache
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.AssemblyInfoInputs.cache
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.AssemblyInfo.cs
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.csproj.CoreCompileInputs.cache
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.dll
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\refint\clase_13-ejercicio1.dll
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.pdb
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\clase_13-ejercicio1.genruntimeconfig.cache
+D:\cursos\mina_clavero\c_sharp\clase_13-ejercicio1\clase_13-ejercicio1\obj\Debug\net6.0\ref\clase_13-ejercicio1.dll
